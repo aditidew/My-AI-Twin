@@ -3,8 +3,6 @@ Because one version of me wasn't enough. Meet my AI Twin.
 
 
 
-# 🤖 My AI Twin
-
 Ever wished you could clone yourself?
 
 Well... I kinda did.
