@@ -1,0 +1,11 @@
+Short Term Goals
+
+- Learn Agentic AI
+- Build a strong capstone project
+- Improve Python
+
+Long Term Goals
+
+- Become AI Engineer
+- Work on Enterprise AI Systems
+- Become AI Architect

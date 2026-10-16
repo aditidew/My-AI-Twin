@@ -1,0 +1,18 @@
+Name: Aditi Dewangan
+
+Current Role:
+Software Engineer
+
+Technical Skills:
+Python
+SQL
+Azure
+REST APIs
+Git
+
+Strengths:
+Problem Solving
+Backend Development
+
+Career Goal:
+Become an AI Engineer specializing in Agentic AI and Azure AI solutions.

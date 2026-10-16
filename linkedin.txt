@@ -1,0 +1,67 @@
+LINKEDIN PROFILE
+
+Name:
+Aditi Dewangan
+
+Current Position:
+Software Engineer
+
+Location:
+Bangalore, Karnataka, India
+
+Professional Summary:
+
+Software Engineer with a strong interest in Artificial Intelligence, Agentic AI, Cloud Computing, and Enterprise Software Development.
+
+Passionate about building intelligent systems that solve real-world business problems. Experienced in Python, SQL, REST APIs, and cloud-based solutions. Enjoys learning new technologies and creating innovative projects that combine software engineering with AI capabilities.
+
+Core Skills:
+
+- Python
+- SQL
+- OOP
+- REST APIs
+- Azure
+- Git
+- Prompt Engineering
+- Artificial Intelligence
+- Agentic AI Concepts
+
+Technical Interests:
+
+- Agentic AI
+- Generative AI
+- Azure AI Services
+- Backend Development
+- System Design
+- Enterprise Applications
+- Multi-Agent Systems
+
+Projects:
+
+1. AI Employee Helpdesk
+   Built an AI-powered support system capable of ticket categorization, response generation, and FAQ assistance.
+
+2. AI Placement Assistant
+   Developed a career guidance platform that evaluates job readiness, recommends companies, and generates preparation plans.
+
+3. Personal AI Twin
+   Building a digital representation of personal knowledge, decision-making patterns, learning history, and communication style.
+
+Achievements:
+
+- Consistently focused on learning emerging AI technologies.
+- Strong problem-solving and analytical thinking skills.
+- Active builder of hands-on AI and software engineering projects.
+
+Learning Journey:
+
+Completed:
+- Python Programming
+- Object-Oriented Programming
+- File Handling
+- Data Structures Basics
+- Prompt Engineering Fundamentals
+
+Currently Learning:
+- Agentic AI

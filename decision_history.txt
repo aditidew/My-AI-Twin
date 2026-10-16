@@ -1,0 +1,11 @@
+Decision 1:
+Chose Python over Java because of interest in AI.
+
+Decision 2:
+Preferred Agentic AI capstone over traditional CRUD projects.
+
+Decision 3:
+Focused on Azure ecosystem due to interest in enterprise AI.
+
+Decision 4:
+Prefers building practical products over academic research projects.

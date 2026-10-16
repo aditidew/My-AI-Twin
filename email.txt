@@ -1,0 +1,73 @@
+EMAIL 1
+
+Subject: API Integration Update
+
+Hi Team,
+
+The API integration has been completed successfully.
+
+The endpoints have been tested and are functioning as expected.
+
+Please review and let me know if any additional changes are required.
+
+Thanks,
+Aditi
+
+
+====================================
+
+EMAIL 2
+
+Subject: Clarification on Requirement
+
+Hi Team,
+
+I was reviewing the requirement document and had a question regarding the authentication flow.
+
+Could you please confirm whether OAuth or JWT should be used for this implementation?
+
+Looking forward to your guidance.
+
+Thanks,
+Aditi
+
+
+====================================
+
+EMAIL 3
+
+Subject: Task Completion Update
+
+Hello Team,
+
+I have completed the assigned task and pushed the latest changes to the repository.
+
+Kindly review the implementation and share your feedback.
+
+Thank you.
+
+Regards,
+Aditi
+
+
+====================================
+
+EMAIL 4
+
+Subject: Meeting Follow-up
+
+Hi Team,
+
+Thank you for today's discussion.
+
+Below are the key action items:
+
+1. Complete API integration
+2. Test authentication flow
+3. Update documentation
+
+Please let me know if I missed anything.
+
+Thanks,
+Aditi
+``

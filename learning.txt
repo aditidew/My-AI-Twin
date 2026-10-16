@@ -1,0 +1,13 @@
+Completed:
+Python Basics
+OOP
+File Handling
+
+Currently Learning:
+Prompt Engineering
+Agentic AI
+
+Next Topics:
+RAG
+Vector Databases
+LangGraph

@@ -1,0 +1,11 @@
+Project: Employee Helpdesk
+Description:
+AI-powered helpdesk system.
+
+Project: Placement Assistant
+Description:
+Job readiness and recommendation system.
+
+Project: Personal AI Twin
+Description:
+Digital representation of personality and knowledge.
